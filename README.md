@@ -1,5 +1,5 @@
 # Homework list
 
 
-[Exercise_02:Name](http://www.jianshu.com/p/d795f7731530)
+[Exercise_02:Name](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/name.py)
 
