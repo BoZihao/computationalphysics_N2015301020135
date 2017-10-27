@@ -11,7 +11,7 @@
 
 - [x] [Exercise_05:problem2.19](http://note.youdao.com/noteshare?id=523aead84fe40b8005da964e666ccf72)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/chapter2/2.19.py)
 
-- [x] [Exercise_06:pendulum(problem3.12)](https://github.com/BoZihao/computationalphysics_N2015301020135)/[code]()
+- [x] [Exercise_06:pendulum(problem3.10)](https://github.com/BoZihao/computationalphysics_N2015301020135)/[code]()
 
 - [ ] [Exercise_07:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
