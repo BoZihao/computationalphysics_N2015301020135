@@ -13,7 +13,7 @@
 
 - [x] [Exercise_06:pendulum(problem3.9and3.12)](http://note.youdao.com/noteshare?id=4c0d4b2ebb039f885e74f3f91dfdfe8a)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/chapter3/3.12.py)
 
-- [ ] [Exercise_07:](https://github.com/BoZihao/computationalphysics_N2015301020135)
+- [x] [Exercise_07:problem3.25](https://github.com/BoZihao/computationalphysics_N2015301020135)/[code]()
 
 - [ ] [Exercise_08:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
