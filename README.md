@@ -15,7 +15,7 @@
 
 - [x] [Exercise_07:problem3.25](http://note.youdao.com/noteshare?id=28c26139e7093810a53ad0552e9f9970)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/chapter3/3.25.py)
 
-- [ ] [Exercise_08:](https://github.com/BoZihao/computationalphysics_N2015301020135)
+- [ ] [Exercise_08:problem3.31](https://github.com/BoZihao/computationalphysics_N2015301020135)/[code]()
 
 - [ ] [Exercise_09:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
