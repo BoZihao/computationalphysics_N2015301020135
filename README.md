@@ -15,10 +15,16 @@
 
 - [x] [Exercise_07:problem3.25](http://note.youdao.com/noteshare?id=28c26139e7093810a53ad0552e9f9970)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/chapter3/3.25.py)
 
-- [ ] [Exercise_08:problem3.31](http://note.youdao.com/noteshare?id=a5b4411bf1d3cc0b102c74840600012d)/[code]()
+- [x] [Exercise_08:problem3.31](http://note.youdao.com/noteshare?id=a5b4411bf1d3cc0b102c74840600012d)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/chapter3/3.31.py)
 
 - [ ] [Exercise_09:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
 - [ ] [Exercise_10:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
+- [ ] [Exercise_11:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
+- [ ] [Exercise_12:](https://github.com/BoZihao/computationalphysics_N2015301020135)
+
+- [ ] [Exercise_13:](https://github.com/BoZihao/computationalphysics_N2015301020135)
+
+- [ ] [Exercise_14:](https://github.com/BoZihao/computationalphysics_N2015301020135)
