@@ -17,7 +17,7 @@
 
 - [x] [Exercise_08:problem3.31](http://note.youdao.com/noteshare?id=a5b4411bf1d3cc0b102c74840600012d)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/chapter3/3.31.py)
 
-- [x] [Midterm Task:pygame]()
+- [x] [Midterm Task:pygame]()/[Download](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/pygame%20V2.2.rar)
 
 - [ ] [Exercise_09:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
