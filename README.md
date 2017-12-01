@@ -19,7 +19,7 @@
 
 - [x] [Midterm Task:pygame](http://note.youdao.com/noteshare?id=db817ce7304a9da262bbd71cbdb6124b)/[Download](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/pygame%20V2.2.rar)
 
-- [x] [Exercise_10:problem4.16](http://note.youdao.com/noteshare?id=84f314b6128340b66fb26c961cbf28a9)/[code]()
+- [x] [Exercise_10:problem4.16](http://note.youdao.com/noteshare?id=84f314b6128340b66fb26c961cbf28a9)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/4.16.py)
 
 - [ ] [Exercise_11:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
