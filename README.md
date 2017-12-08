@@ -21,7 +21,7 @@
 
 - [x] [Exercise_10:problem4.16](http://note.youdao.com/noteshare?id=84f314b6128340b66fb26c961cbf28a9)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/4.16.py)
 
-- [x] [Exercise_11:](http://note.youdao.com/noteshare?id=8543247faddb692927a7e6bad883da89)/[code]()
+- [x] [Exercise_11:problem5.3](http://note.youdao.com/noteshare?id=8543247faddb692927a7e6bad883da89)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/5.3.py)
 
 - [ ] [Exercise_12:](https://github.com/BoZihao/computationalphysics_N2015301020135)
 
