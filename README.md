@@ -25,4 +25,4 @@
 
 - [x] [Exercise_12:problem6.6](http://note.youdao.com/noteshare?id=b2ff610a0e2244b5aece0cc9a0f8f0bd)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/6.6.py)
 
-- [x] [Exercise_13:Final task](https://github.com/BoZihao/computationalphysics_N2015301020135)
+- [x] [Exercise_13:Final task](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.pdf)
