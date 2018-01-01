@@ -25,4 +25,4 @@
 
 - [x] [Exercise_12:problem6.6](http://note.youdao.com/noteshare?id=b2ff610a0e2244b5aece0cc9a0f8f0bd)/[code](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/6.6.py)
 
-- [x] [Exercise_13:Final task](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.pdf)/[code1](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/%E9%A1%BA%E7%A3%81%E6%80%A7%E7%89%A9%E8%B4%A8%E7%9A%84%E7%A3%81%E5%8C%96%E5%BC%BA%E5%BA%A6.py)/[code2]()
+- [x] [Exercise_13:Final task](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.pdf)/[code1](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/%E9%A1%BA%E7%A3%81%E6%80%A7%E7%89%A9%E8%B4%A8%E7%9A%84%E7%A3%81%E5%8C%96%E5%BC%BA%E5%BA%A6.py)/[code2](https://github.com/BoZihao/computationalphysics_N2015301020135/blob/master/%E5%88%86%E5%AD%90%E5%9C%BA%E8%BF%91%E4%BC%BC.py)
